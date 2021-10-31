@@ -31,7 +31,7 @@ Kumpulan informasi yang disimpan di dalam komputer secara sistematik sehingga da
 <br>
 
 ### 5. Sebutkan 5 keunggulan MySQL sebagai RDBMS!
-* Software sumber terbuka (open source) dibawah lisensi GPL.
+* Software sumber terbuka (open source) dibawah lis ensi GPL.
 * Stabil dan tangguh.
 * Fleksibel dengan berbagai bahasa pemrograman.
 * Mampu menangani basis data dalam skala besar.
